@@ -30,3 +30,4 @@
 **/*.pyc
 .claude/*.worktrees
 .worktrees/
+settings.json
